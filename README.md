@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Deepak Sharma]
+# 👋 Hi, I'm Deepak Sharma
 
 🎓 I'm a student currently learning web development — always growing, always building.
 
