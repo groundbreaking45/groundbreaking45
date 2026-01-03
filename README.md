@@ -38,19 +38,6 @@ I believe in learning by building real-world solutions and continuously improvin
 
 ---
 
-## 💼 Experience
-
-**Data Science Intern – Pedestal Techno World Pvt. Ltd.**  
-*(Nov 2025 – Present)*
-
-- Built FAQ and omni-channel service bots using **RASA, LLMs, and RAG**
-- Developed intelligent ticket classification systems with automated workflows
-- Designed AI-powered chat assistants using OpenAI & local models
-- Created automated operational reporting pipelines
-- Built an automated code review system integrated with GitHub
-
----
-
 ## 📌 Projects Highlights
 
 - Software Defect Prediction using ML models  
