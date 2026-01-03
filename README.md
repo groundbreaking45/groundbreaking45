@@ -27,7 +27,7 @@ I believe in learning by building real-world solutions and continuously improvin
 - Node.js, Express
 - MongoDB, Mongoose
 - REST APIs
-- Python, JavaScript, Java, C++, SQL
+- Python, JavaScript, C, C++, SQL
 
 ### 🛠 Tools & Platforms
 - Git, GitHub
