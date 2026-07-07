@@ -1,61 +1,60 @@
 # 👋 Hi, I'm Deepak Sharma
 
-🎓 B.Tech Student | Data Science & Generative AI Intern  
-🤖 Working with LLMs, RAG, NLP & Full-Stack Systems
+🎓 B.Tech CSE Student
+📊 Learning Data Science, Generative AI & Machine Learning
+🤖 Building projects to strengthen AI fundamentals
 
-I’m a results-driven engineering student currently working as a **Data Science Intern**, focused on building practical AI systems using **Generative AI, Machine Learning, and Full-Stack technologies**.  
-I believe in learning by building real-world solutions and continuously improving through hands-on work.
+I'm a Computer Science student passionate about Data Science, Machine Learning, and Generative AI. I'm currently learning these fields through coursework, self-study, and hands-on projects. I enjoy understanding concepts deeply and applying them to build practical AI solutions.
+
+I'm actively seeking opportunities to grow as a Data Science Fresher and contribute while continuously learning.
 
 ---
 
 ## 🚀 Core Skills & Tech Stack
 
-### 🤖 AI / Machine Learning
-- Generative AI, NLP, Deep Learning
-- LLMs & SLMs
-- RAG (Retrieval-Augmented Generation)
-- TensorFlow
-- Feature Engineering & Model Optimization
+### 🤖 AI & Machine Learning
+- Machine Learning Fundamentals
+- Generative AI
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+  
 
 ### 📊 Data Science
-- Python, Pandas, NumPy, SciPy
-- Data Analysis & Automation
-- Excel-based Operational Reporting
+- Python
+- Pandas
+- NumPy
+- Data Analysis(using python)
+- Data Visualization
+- Feature Engineering
 
 ### 💻 Development
-- React.js, Next.js
-- Node.js, Express
-- MongoDB, Mongoose
+- Python
+- JavaScript
+- C/C++
+- SQL
 - REST APIs
-- Python, JavaScript, C, C++, SQL
 
 ### 🛠 Tools & Platforms
-- Git, GitHub
-- RASA
-- Flowise
-- n8n
-- Vector Databases
+- Git
+- GitHub
+- VectoDatabaseses
 
 ---
 
-## 📌 Projects Highlights
 
-- Software Defect Prediction using ML models  
-- AI Chatbots with Vector Databases for semantic search  
-- Lead Generation & Intent-Based Marketing AI Assistants  
-- TCP-based real-time messaging application in Python  
 
----
+## 🌱 Currently Learning
 
-## 🌱 Learning Philosophy
-
-> *“Build real systems. Learn deeply. Improve continuously.”*
-
-I focus on strong fundamentals, practical problem-solving, and disciplined growth.
+- Data Science
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LLM Applications & RAG
+- Model Evaluation and Optimization
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-Explore my repositories below —  
-Open to collaboration, feedback, and challenging problems 🚀
+Feel free to explore my repositories. I'm always excited to learncollaboratete, and work on meaningful AI and Data Science projects.
